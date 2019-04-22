@@ -23,7 +23,8 @@
 Предположим, что постоянно играет 10 % аудитории = 5 млн * 10% = [500 тыс онлайн]
 
 ## 4. Логическая схема базы данных (без выбора СУБД)
-[logo]: https://raw.githubusercontent.com/Silvman/highload_hw3/master/imaQB_GyiSI.jpg
+![alt-текст](https://raw.githubusercontent.com/Silvman/highload_hw3/master/imaQB_GyiSI.jpg "Текст заголовка логотипа 1")
+
 
 Данные пользователя: ~ 100 Б
 Данные на 1 игру ~ 1-2 кБ
